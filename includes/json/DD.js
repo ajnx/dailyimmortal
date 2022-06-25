@@ -1,12 +1,12 @@
 var dailydrops = {
-    "daily-dungeon": {
+    /*"daily-dungeon": {
         task: "4 Player Dungeons",
         url: "#",
         short: true,
         desc: "After the first 5 {gems}, you'll get 1 gem per hour",
         img: "gem",
         boxcount: 5
-    },
+    },*/
     "daily-lair": {
         task: "Hidden Lair",
         url: "#",
