@@ -7,7 +7,7 @@ var dailies = {
         img: "placeholder",
         boxcount: 1
     },
-    "daily-battlegrounds": {
+    /*"daily-battlegrounds": {
         task: "Battleground",
         time: "8-12-18-22",
         duration: 2,
@@ -16,7 +16,7 @@ var dailies = {
         desc: "Repeatable 3 times for rewards.",
         img: "placeholder",
         boxcount: 3
-    },
+    },*/
 	"daily-bestiary": {
         task: "Bestiary",
         url: "#",
@@ -33,14 +33,14 @@ var dailies = {
         img: "placeholder",
         boxcount: 8
     },
-    "daily-faction": {
+    /*"daily-faction": {
         task: "Contracts Daily",
         url: "#",
         short: true,
         desc: "Complete your daily Shadow Contract (can stack up to 5)",
         img: "placeholder",
         boxcount: 1
-    },
+    },*/
     "daily-challenge-reward": {
         task: "Daily Challenge Rewards",
         url: "#",
@@ -97,7 +97,7 @@ var dailies = {
         img: "rare_crest",
         boxcount: 1
     },
-	"daily-lottery": {
+    /*"daily-lottery": {
         task: "Shadow Lottery",
         time: "12-18-21",
         duration: 1,
@@ -106,8 +106,8 @@ var dailies = {
         desc: "Enter the Shadow Lottery.",
         img: "signet",
         boxcount: 1
-    },
-	"assembly": {
+    },*/
+    /*"assembly": {
         task: "The Assembly",
         time: "18",
         duration: 2,
@@ -116,7 +116,7 @@ var dailies = {
         desc: "Collect all 4 blessings.",
         img: "assembly",
         boxcount: 4
-    },
+    },*/
     "daily-zone": {
         task: "Zone Event",
         url: "#",
