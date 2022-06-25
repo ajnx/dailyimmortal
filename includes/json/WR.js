@@ -13,13 +13,13 @@ var weeklies = {
         img: "placeholder",
         boxcount: 1
     },
-    "contract": {
+    /*"contract": {
         task: "Contracts Weekly",
         url: "#",
         desc: "Complete 3 contracts for weekly rewards",
         img: "placeholder",
         boxcount: 3
-    },
+    },*/
     "fading-ember": {
         task: "Fading Ember",
         url: "#",
@@ -41,7 +41,7 @@ var weeklies = {
         img: "hilts",
         boxcount: 1
     },
-    "vault": {
+    /*"vault": {
         task: "Vault",
         time: "12-19",
         duration: 2,
@@ -49,5 +49,5 @@ var weeklies = {
         desc: "Complete vault runs until max rewards.",
         img: "gold",
         boxcount: 1
-    },
+    },*/
 };
