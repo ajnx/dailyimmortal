@@ -1,8 +1,8 @@
-[![DailyImmortal](./includes/img/dailyimmortal.png)](https://dailyimmortal.github.io)
-# DailyImmortal - Dailies, Weeklies and Monthlies for Diablo Immortal
+[![DailyImmortal](./includes/img/dailyimmortal.png)](https://ajnx.github.io/dailyimmortal/)
+# DailyImmortal - Dailies, Weeklies, and Monthlies for Diablo Immortal
 
 ## Features
-* List of daily, weekly and monthly repeatable tasks for Diablo Immortal
+* List of daily, weekly, and monthly repeatable tasks for Diablo Immortal
 * Automatic countdown timer til the next reset time
 * Timezones for all current servers
 * Once the reset time has past, completed tasks are automatically reset for you
@@ -12,9 +12,6 @@
 * Compact view mode
 * Ad free / tracking free
 
-## Requests
-
-Please submit any missing tasks, bugs or new feature requests to the [issue tracker](https://github.com/DailyImmortal/dailyimmortal.github.io/issues).
-
 ## Credits
+* This is a fork of [DailyImmortal](https://dailyimmortal.github.io)
 * Original Source code by [DailyArk](https://dailyark.github.io) and [DailyScape](https://dailyscape.github.io)
